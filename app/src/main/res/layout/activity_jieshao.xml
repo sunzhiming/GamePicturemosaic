@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="#e0ed0d32"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="26sp"
+            android:text="介绍"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="16sp"
+        android:text="拼图游戏是广受欢迎的一种智力游戏，它的变化多端，难度不一，让人百玩不厌。个性拼图，拼凑的不仅仅是一张照片，而是一个故事，一段回忆，一缕温情。每一片的单片都有它自己的位置，就像每段回忆都有它的故事，你要将它放在专属的地方，放对了就慢慢丰富起来，放错了就无法完整。 "/>
+
+</LinearLayout>
